@@ -106,6 +106,7 @@ section img#mountains_front {
   white-space: nowrap;
   font-size: 7.5vw;
   z-index: 9;
+  -webkit-text-stroke: 1px #818688;
 }
 
 #btn {
